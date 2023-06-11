@@ -1,1 +1,1 @@
-shell basics project readme
+This is a shell redirection directory
